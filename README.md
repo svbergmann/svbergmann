@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![https://www.linkedin.com/in/sven-bergmann-500925227/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 I'm Sven Bergmann a software developer based in Aachen, Germany. 
 I'm currently still in education, both studying Applied Mathematics and Informatics and training for MATSE(mathematical-technical software engineer).
-<br>
-For more information please visit my LinkedIn profile: <div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sven-bergmann-500925227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/sven-bergmann-500925227?trk=profile-badge">Sven Bergmann</a></div>
 
 <!--
 **ProfSchmergmann/ProfSchmergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
