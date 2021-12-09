@@ -5,10 +5,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sven-bergmann-500925227" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/sven-bergmann-500925227?trk=profile-badge">Sven Bergmann</a>
-</div>
 
 I'm Sven Bergmann a software developer based in Aachen, Germany. 
 I'm currently still in education, both studying Applied Mathematics and Informatics and training for MATSE(mathematical-technical software engineer).
