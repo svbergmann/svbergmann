@@ -7,7 +7,7 @@
 </p>
 
 I'm Sven Bergmann, a software developer based in Aachen, Germany. 
-I'm currently still in education, both studying Applied Mathematics and Informatics and training for MATSE (mathematical-technical software engineer) at CAE Stolberg.
+I'm currently studying M.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/) and part-time working at CAE in Stolberg.
 You can find my "Seminararbeit" with the topic "Architekturen und Verfahren zur Absicherung des Informationsaustauschs im Client-Server Modell" inside the [Seminararbeit Repository](../../../Seminararbeit).
 I have also written my bachelor thesis with the title "Konzeption eines webbasierten Datenservices für die Einbindung in eine Flugsimulationsumgebung unter Berücksichtigung geltender Sicherheitsrichtlinien und -risiken" inside the [Bachelorarbeit Repository](../../../Bachelorarbeit).
 
