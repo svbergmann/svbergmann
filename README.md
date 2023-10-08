@@ -12,10 +12,10 @@ You can find my "Seminararbeit" with the topic "Architekturen und Verfahren zur 
 I have also written my bachelor thesis with the title "Konzeption eines webbasierten Datenservices für die Einbindung in eine Flugsimulationsumgebung unter Berücksichtigung geltender Sicherheitsrichtlinien und -risiken" inside the [Bachelorarbeit Repository](../../../Bachelorarbeit).
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProfSchmergmann&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Prof Schmergmann's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=svbergmann&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Prof Schmergmann's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfSchmergmann&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svbergmann&layout=compact&theme=dark&hide_border=true" />
   </a>
 
 
