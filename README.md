@@ -7,7 +7,8 @@
 </p>
 
 I'm Sven Bergmann, based in Aachen, Germany. 
-I received a Master of Science degree in Mathematics at [University of Wisonsin - Milwaukee](https://uwm.edu/) while I'm still studying M.Sc. Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
+I received a Master of Science degree in Mathematics at [University of Wisonsin - Milwaukee](https://uwm.edu/) as well as a Master of Science degree in Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
+Currently, I am working as a Software Engineer at [achelos](https://www.achelos.de/de/).
 
 Own work:
 - [Masterthesis](../../../Masterthesis) with the title "ANALYTIC APPROXIMATIONS OF HIGHER ORDER MOMENTS IN TERMS OF LOWER ORDER MOMENTS"
