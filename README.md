@@ -16,7 +16,7 @@ Own work:
 - ["Seminararbeit"](../../../Seminararbeit) with the title "Architekturen und Verfahren zur Absicherung des Informationsaustauschs im Client-Server Modell"
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=svbergmann&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Prof Schmergmann's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=svbergmann&show_icons=true&theme=dark&hide_border=true" alt="Sven Bergmann's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svbergmann&layout=compact&theme=dark&hide_border=true" />
