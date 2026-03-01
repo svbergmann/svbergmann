@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm Sven Bergmann, based in Aachen, Germany. 
+I'm Sven Bergmann, based in Mainz, Germany. 
 I received a Master of Science degree in Mathematics at [University of Wisonsin - Milwaukee](https://uwm.edu/) as well as a Master of Science degree in Applied Mathematics and Informatics at [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
 Currently, I am working as a Software Engineer at [achelos](https://www.achelos.de/de/).
 
